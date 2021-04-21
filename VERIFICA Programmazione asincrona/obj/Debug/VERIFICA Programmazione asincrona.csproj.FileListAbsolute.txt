@@ -1,0 +1,15 @@
+C:\Users\giacomo.lazzari\Desktop\VERIFICA Programmazione asincrona\VERIFICA Programmazione asincrona\bin\Debug\VERIFICA Programmazione asincrona.exe.config
+C:\Users\giacomo.lazzari\Desktop\VERIFICA Programmazione asincrona\VERIFICA Programmazione asincrona\bin\Debug\VERIFICA Programmazione asincrona.exe
+C:\Users\giacomo.lazzari\Desktop\VERIFICA Programmazione asincrona\VERIFICA Programmazione asincrona\bin\Debug\VERIFICA Programmazione asincrona.pdb
+C:\Users\giacomo.lazzari\Desktop\VERIFICA Programmazione asincrona\VERIFICA Programmazione asincrona\obj\Debug\VERIFICA Programmazione asincrona.csprojAssemblyReference.cache
+C:\Users\giacomo.lazzari\Desktop\VERIFICA Programmazione asincrona\VERIFICA Programmazione asincrona\obj\Debug\MainWindow.g.cs
+C:\Users\giacomo.lazzari\Desktop\VERIFICA Programmazione asincrona\VERIFICA Programmazione asincrona\obj\Debug\App.g.cs
+C:\Users\giacomo.lazzari\Desktop\VERIFICA Programmazione asincrona\VERIFICA Programmazione asincrona\obj\Debug\VERIFICA Programmazione asincrona_MarkupCompile.cache
+C:\Users\giacomo.lazzari\Desktop\VERIFICA Programmazione asincrona\VERIFICA Programmazione asincrona\obj\Debug\VERIFICA Programmazione asincrona_MarkupCompile.lref
+C:\Users\giacomo.lazzari\Desktop\VERIFICA Programmazione asincrona\VERIFICA Programmazione asincrona\obj\Debug\MainWindow.baml
+C:\Users\giacomo.lazzari\Desktop\VERIFICA Programmazione asincrona\VERIFICA Programmazione asincrona\obj\Debug\VERIFICA Programmazione asincrona.g.resources
+C:\Users\giacomo.lazzari\Desktop\VERIFICA Programmazione asincrona\VERIFICA Programmazione asincrona\obj\Debug\VERIFICA_Programmazione_asincrona.Properties.Resources.resources
+C:\Users\giacomo.lazzari\Desktop\VERIFICA Programmazione asincrona\VERIFICA Programmazione asincrona\obj\Debug\VERIFICA Programmazione asincrona.csproj.GenerateResource.cache
+C:\Users\giacomo.lazzari\Desktop\VERIFICA Programmazione asincrona\VERIFICA Programmazione asincrona\obj\Debug\VERIFICA Programmazione asincrona.csproj.CoreCompileInputs.cache
+C:\Users\giacomo.lazzari\Desktop\VERIFICA Programmazione asincrona\VERIFICA Programmazione asincrona\obj\Debug\VERIFICA Programmazione asincrona.exe
+C:\Users\giacomo.lazzari\Desktop\VERIFICA Programmazione asincrona\VERIFICA Programmazione asincrona\obj\Debug\VERIFICA Programmazione asincrona.pdb
